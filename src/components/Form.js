@@ -18,6 +18,8 @@ class Form extends React.Component {
     })
   }
 
+
+  just a few changes 
   render() {
     return (
       <form onSubmit={event => this.handleSubmit(event)}>
